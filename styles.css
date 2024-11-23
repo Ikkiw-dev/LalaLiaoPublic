@@ -1,0 +1,107 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #007BFF;
+    color: #333;
+  }
+  
+  .profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f4f4f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* Header Section */
+  .profile-header {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #f4f4f9 ;
+    margin-bottom: 15px;
+  }
+  
+  .name {
+    font-size: 2rem;
+    color: #007BFF;
+    margin-bottom: 5px;
+  }
+  
+  .bio {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  /* About Section */
+  .about {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+  }
+  
+  .about h2 {
+    color: #007BFF;
+  }
+  
+  /* Skills Section */
+  .skills {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+  }
+  
+  .skills h2 {
+    color: #007BFF;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    background: #f4f4f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
+  /* Contact Section */
+  .contact {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+  }
+  
+  .contact h2 {
+    color: #007BFF;
+  }
+  
+  .contact a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
+  .social-links a {
+    color: #007BFF;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  
